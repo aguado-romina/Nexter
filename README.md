@@ -2,7 +2,7 @@
 
 ## Description
 
-Nexter is a travel app I built with the Udemy course [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/share/101WkwAEcYcVtbRH8H/)
+Nexter is a luxury realtor service app I built with the Udemy course [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/share/101WkwAEcYcVtbRH8H/)
 
 ## Deployed Link
 
