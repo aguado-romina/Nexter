@@ -6,9 +6,11 @@ Nexter is a travel app I built with the Udemy course [Advanced CSS and Sass: Fle
 
 ## Deployed Link
 
+https://aguado-romina.github.io/Nexter/
+
 ## Images
 
-![img]()
+![img](img/HomePage.png)
 
 ## Languages
 
